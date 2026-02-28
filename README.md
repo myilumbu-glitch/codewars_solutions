@@ -1,7 +1,7 @@
-#AI-PORTFOLIO
+#AI PORTFOLIO
+
 AI, Economics, and Infrastructure learning portfolio
 
-AI Portfolio
 This repository documents my journey in AI, Economics, and Infrastructure, following a structured 24-month roadmap.
 
 
